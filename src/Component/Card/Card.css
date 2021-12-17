@@ -1,0 +1,16 @@
+.card{
+    height: 18vh;
+    width: 240px;
+    display: flex;
+    font-size: 18px;
+    margin: 20px auto;
+    border: 3.5px solid black;
+    padding: 0px 10px ;
+    position: relative; 
+}
+.img{
+    height: 50px;
+    margin: 10px;
+    position: absolute;
+    right: 0; bottom: 0; 
+}
